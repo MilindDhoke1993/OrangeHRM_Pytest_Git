@@ -1,0 +1,2 @@
+CRITICAL Test_OrangeHRM_Login_DDT:test_OrangeHRM_Login_DDT.py:21 Test case is started
+INFO     Test_OrangeHRM_Login_DDT:test_OrangeHRM_Login_DDT.py:24 Opening browser

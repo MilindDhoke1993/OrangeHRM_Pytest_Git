@@ -1,0 +1,1 @@
+[{"uid":"f078e50a098eb407","name":"test_orangehrm_url_DDT","time":{"start":1723366943306,"stop":1723366943861,"duration":555},"status":"passed","severity":"normal"},{"uid":"80cbb203ac0e6e90","name":"test_orangehrm_login_DDT","time":{"start":1723366953587,"stop":1723367127867,"duration":174280},"status":"passed","severity":"normal"}]
